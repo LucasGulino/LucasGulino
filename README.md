@@ -1,7 +1,4 @@
-
-Bien le bonjour, noble Lucas Gulino ! Grâce à tes réponses, je vais composer une bio digne de tes aspirations et de ton parcours. Prépare-toi à naviguer les flots du numérique avec une introduction unique et inspirante, enrichie d’une touche de Shakespeare. 🌟📜
-
-👨‍💻 "Hark! Behold Lucas Gulino, a novice with the heart of a sage, whose journey in the realms of code has just begun." 🎶
+ "Hark! Behold Lucas Gulino, a novice with the heart of a sage, whose journey in the realms of code has just begun." 🎶
 
 🌱 Débutant rigoureux et concentré, Lucas possède une affinité naturelle avec la programmation, une aisance technique et une curiosité intense qui le poussent à explorer sans relâche les mystères de la technologie. Bien que novice, sa détermination et sa passion font de lui un apprenti prometteur.
 
